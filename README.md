@@ -75,10 +75,13 @@ Upload to NodeMCU ESP8266 → Test with Blynk App/Web.
 
 ⚙️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 & 𝐔𝐬𝐚𝐠𝐞
 
-Open the code in Arduino IDE
-Install libraries: Blynk, ESP8266WiFi
-Select NodeMCU 1.0 (ESP8266) board
-Upload code → Open Blynk app → Control LED matrix
+1)Open the code in Arduino IDE
+
+2)Install libraries: Blynk, ESP8266WiFi
+
+3)Select NodeMCU 1.0 (ESP8266) board
+
+4)Upload code → Open Blynk app → Control LED matrix
 
 🙏 𝐀𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞𝐦𝐞𝐧𝐭
 
