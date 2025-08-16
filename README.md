@@ -5,7 +5,7 @@ It allows messages to be updated wirelessly via mobile app or web dashboard and 
 
 Project Guidance Video:https://www.youtube.com/watch?v=hns8wvBJLts
 
-🚀 Features
+###🚀 Features
 
 Wireless message update via Blynk IoT app / web dashboard
 Supports scrolling & static text modes
